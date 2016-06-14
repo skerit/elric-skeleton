@@ -1,0 +1,12 @@
+{
+	"name": "elric-skeleton",
+	"description": "The Elric plugin skeleton",
+	"version": "0.1.0",
+	"author": "Jelle De Loecker <jelle@develry.be>",
+	"keywords": ["elric", "plugin"],
+	"repository": "git@github.com:skerit/elric-skeleton.git",
+	"dependencies": {
+
+	},
+	"license": "GPLv3"
+}
